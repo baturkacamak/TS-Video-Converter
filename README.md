@@ -90,30 +90,3 @@ See also the list of [contributors](https://github.com/YourUsername/TS-Video-Con
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
-## Acknowledgments
-
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
-```
-
-You need to replace `YourUsername` with your actual GitHub username and `Your Name` with your real name or your GitHub handle if you prefer.
-
-Here's how you can create and add this `README.md` to your Git project:
-
-1. In the `TS-Video-Converter` directory, create the `README.md` file:
-   ```bash
-   touch README.md
-   ```
-
-2. Open `README.md` in a text editor, paste the provided Markdown content, and customize it as needed.
-
-3. Save the file, then use Git to add, commit, and push the `README.md` file to your repository:
-   ```bash
-   git add README.md
-   git commit -m "Add README.md with installation and usage instructions"
-   git push
-   ```
-
-This `README.md` provides basic instructions on how to download and run the script, as well as some placeholder sections for you to complete with your own information.
