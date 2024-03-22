@@ -79,13 +79,13 @@ After downloading and setting up, you can run the script as described above. The
 
 ## Contributing
 
-Please read [CONTRIBUTING.md](https://github.com/YourUsername/TS-Video-Converter/CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
+Please read [CONTRIBUTING.md](https://github.com/baturkacamak/TS-Video-Converter/CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
 
 ## Authors
 
-* **Your Name** - *Initial work* - [YourUsername](https://github.com/YourUsername)
+* **Batur Kacamak** - *Initial work* - [baturkacamak](https://github.com/baturkacamak)
 
-See also the list of [contributors](https://github.com/YourUsername/TS-Video-Converter/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/baturkacamak/TS-Video-Converter/contributors) who participated in this project.
 
 ## License
 
